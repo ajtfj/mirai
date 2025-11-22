@@ -1,0 +1,2 @@
+class AudioGenerationError(Exception):
+    pass 

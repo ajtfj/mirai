@@ -1,0 +1,2 @@
+class VideoNotFoundError(Exception):
+    pass 

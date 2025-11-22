@@ -1,0 +1,2 @@
+class VideoGenerationError(Exception):
+    pass 
